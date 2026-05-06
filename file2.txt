@@ -1,1 +1,2 @@
 This is where file2.txt got added
+Lorem ipsum dolor sit amet
